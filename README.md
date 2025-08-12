@@ -12,6 +12,7 @@ and must be connected to Empty ! square at bottom-left corner (marked with green
 *This application does not check rule 2 !
 
 This challenge circulated somewhere on-line.
+
 Implementation of this game as a computer application was also interesting challenge.
 
-*Source code files of this application are free to use for any development.
+*Source code of this application are free to use for any development.
