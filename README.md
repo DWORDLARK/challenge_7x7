@@ -15,4 +15,4 @@ This challenge circulated somewhere on-line.
 
 Implementation of this game as a computer application was also interesting challenge.
 
-*Source code of this application are free to use for any development.
+*Source code of this application is free to use for any development.
